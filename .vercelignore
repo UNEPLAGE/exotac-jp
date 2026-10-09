@@ -1,2 +1,3 @@
 # 社内用マニュアル等は公開から除外
 docs/
+# redeploy trigger (git連携の張り直し後)
