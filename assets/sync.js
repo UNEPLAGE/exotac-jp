@@ -17,7 +17,7 @@
   var COLLECTION = 'exotac';
   var WP = 'https://upioutdoor.com/wp-json/wp/v2/';
   var BRAND = 24;                 // brand タクソノミー: EXOTAC
-  var UTM = 'utm_source=exotac.jp&utm_medium=referral&utm_campaign=brand_portal';
+  var UTM = 'utm_source=exotac.jp&utm_medium=referral&utm_campaign=brand_site';
   var TIMEOUT = 6000;
 
   function get(url) {
